@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Oleg",
+        "number": "654",
+        "city": "Zmerinka"
+    },
+    {
+        "name": "Marina",
+        "number": "987",
+        "city": "Odessa"
+    },
+    {
+        "name": "Denis",
+        "number": "3435",
+        "city": "Vinnitsa"
+    },
+    {
+        "name": "Maks",
+        "number": "4576",
+        "city": "Lviv"
+    }
+]
